@@ -34,6 +34,7 @@ class LoginController: UIViewController, UITableViewDelegate {
         transformAnimation()
         
         jsonSetup()
+        print("balkalkdjajksd")
     }
     
     override func viewDidLoad() {
